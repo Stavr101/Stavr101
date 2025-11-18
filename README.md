@@ -59,9 +59,9 @@
 
 ## 📫 Contact
 
-- 📧 Email: **your.email@example.com**
-- 💬 Telegram: **@your_username**
-- 🔗 LinkedIn: _(add link)_
+- 📧 Email: Shishkin_SU@ukr.net
+- 💬 Telegram: @Stavr101
+- 🔗 LinkedIn: https://www.linkedin.com/in/sergey-shishkin-111083230/
 
 ---
 
